@@ -1,0 +1,17 @@
+1010203
+10302
+135010
+string
+string
+data
+301310
+name
+orange
+bird
+13067
+cat
+502
+6
+708
+dog
+
